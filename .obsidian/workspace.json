@@ -45,6 +45,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38d1a1d48fbbf6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Engineering/Code Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98febe67a3701f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a1e31970065c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c03dff435f5f11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
                 "mode": "source",
                 "source": false
@@ -52,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -102,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -179,8 +227,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "2c54fb3ba043371c",
+  "active": "2c03dff435f5f11a",
   "lastOpenFiles": [
+    "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
+    "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
+    "Phishing Training/1. Introduction to Phishing/1.4 Real life consequences of Phishing.md",
+    "Prompt Engineering/Prompt Library/Smart Slides/Capcun.md",
+    "Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
+    "Prompt Engineering/Prompt Library/Smart Slides",
+    "Prompt Engineering/Prompt Library/Summary.md",
+    "Prompt Engineering/Code Course.md",
+    "Prompt Engineering/Prompt Library",
+    "Prompt Engineering",
     "Phishing Training/4. Recognizing Phishing Emails and Websites/4.3 Recognizing Fake URLs.md",
     "Phishing Training/4. Recognizing Phishing Emails and Websites/4.2 Analyzing Email Headers.md",
     "Phishing Training/4. Recognizing Phishing Emails and Websites/4.1 Common Indicators of Phishing Emails.md",
@@ -189,9 +247,6 @@
     "Phishing Training/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
     "Phishing Training/2. Understanding the Threat Landscape/2.1 Understanding the Threat Landscape.md",
     "Phishing Training/1. Introduction to Phishing/1.5 Quiz.md",
-    "Phishing Training/1. Introduction to Phishing/1.4 Real life consequences of Phishing.md",
-    "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
-    "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
     "Phishing Training/10. Creating a Phishing-aware Culture/Creating a Phishing aware culture.md",
     "Phishing Training/9. Testing and Assessment/Untitled.md",
     "Phishing Training/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
@@ -203,19 +258,12 @@
     "Phishing Training/5. Real-world Examples and Analysis/5.2 - What made them successful or unsuccessful?.md",
     "Phishing Training/6. Preventing Phishing Attacks/6.4 Regular backups of critical data.md",
     "Phishing Training/6. Preventing Phishing Attacks/6.2 Keeping Software and Systems Updated.md",
-    "Phishing Training/6. Preventing Phishing Attacks/6.3 Using dedicated phishing protection tools and services.md",
-    "Phishing Training/6. Preventing Phishing Attacks/6.1 - Setting up multi-factor authentication.md",
-    "Phishing Training/5. Real-world Examples and Analysis/5.1 Breakdown of Actual Phishing Emails & Websites.md",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.5 Spotting generic greetings and signature lines.md",
     "Recordings/ElevenLabs_2023-10-06T23_51_11_Charlie_pre_s50_sb75_m1.mp3",
     "Recordings",
     "Recordings/ElevenLabs_2023-10-08T10_09_51_Charlie_pre_s50_sb75_m1.mp3",
     "Recordings/ElevenLabs_2023-10-13T01_50_20_Charlie_pre_s50_sb75_m1.mp3",
     "Phishing Training/11. Conclusion and Further Resources",
     "Phishing Training/10. Creating a Phishing-aware Culture",
-    "Phishing Training/9. Testing and Assessment",
-    "Phishing Training/7. Responding to a Phishing Attempt",
-    "Phishing Training/8. Hands-on Activities and Simulations",
-    "Phishing Training/6. Preventing Phishing Attacks"
+    "Phishing Training/9. Testing and Assessment"
   ]
 }
