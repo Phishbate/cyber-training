@@ -4,11 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2133277f1a6f2b95",
+        "id": "131c99b841a480f4",
         "type": "tabs",
         "children": [
           {
-            "id": "9395138a398fc68c",
+            "id": "594e1c1148744e65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "741a5cdf5898ff04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing Training/7. Responding to a Phishing Attempt/7.3 Informing the IT & security team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4243d24c8229661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phishing Training/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c54fb3ba043371c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ea44b5a8d7adbaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
+                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
+                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md"
+                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md"
               }
             }
           }
@@ -154,38 +174,48 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "2ea44b5a8d7adbaa",
+  "active": "2c54fb3ba043371c",
   "lastOpenFiles": [
-    "Phishing Training/5. Real-world Examples and Analysis/Untitled.md",
-    "Phishing Training/10. Creating a Phishing-aware Culture/Untitled.md",
-    "Phishing Training/8. Hands-on Activities and Simulations/Untitled.md",
-    "Phishing Training/11. Conclusion and Further Resources/Untitled.md",
-    "Phishing Training/9. Testing and Assessment/Untitled.md",
-    "Phishing Training/7. Responding to a Phishing Attempt/Untitled.md",
-    "Phishing Training/6. Preventing Phishing Attacks/Untitled.md",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/Untitled.md",
+    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.3 Recognizing Fake URLs.md",
+    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.2 Analyzing Email Headers.md",
+    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.1 Common Indicators of Phishing Emails.md",
     "Phishing Training/3. Phishing Techniques & Tactics/3.2 Understanding Deceptive URLs.md",
+    "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
+    "Phishing Training/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
+    "Phishing Training/2. Understanding the Threat Landscape/2.1 Understanding the Threat Landscape.md",
+    "Phishing Training/1. Introduction to Phishing/1.5 Quiz.md",
+    "Phishing Training/1. Introduction to Phishing/1.4 Real life consequences of Phishing.md",
+    "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
+    "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
+    "Phishing Training/10. Creating a Phishing-aware Culture/Creating a Phishing aware culture.md",
+    "Phishing Training/9. Testing and Assessment/Untitled.md",
+    "Phishing Training/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
+    "Phishing Training/8. Hands-on Activities and Simulations/8.1 Interacting with simulated phishing emails.md",
+    "Phishing Training/7. Responding to a Phishing Attempt/7.3 Informing the IT & security team.md",
+    "Phishing Training/7. Responding to a Phishing Attempt/7.2 How to Report Phishing Attempts.md",
+    "Phishing Training/7. Responding to a Phishing Attempt/7.1 What to do if you click on a phishing link?.md",
+    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.6 - Checking for misspellings and bad grammar.md",
+    "Phishing Training/5. Real-world Examples and Analysis/5.2 - What made them successful or unsuccessful?.md",
+    "Phishing Training/6. Preventing Phishing Attacks/6.4 Regular backups of critical data.md",
+    "Phishing Training/6. Preventing Phishing Attacks/6.2 Keeping Software and Systems Updated.md",
+    "Phishing Training/6. Preventing Phishing Attacks/6.3 Using dedicated phishing protection tools and services.md",
+    "Phishing Training/6. Preventing Phishing Attacks/6.1 - Setting up multi-factor authentication.md",
+    "Phishing Training/5. Real-world Examples and Analysis/5.1 Breakdown of Actual Phishing Emails & Websites.md",
+    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.5 Spotting generic greetings and signature lines.md",
+    "Recordings/ElevenLabs_2023-10-06T23_51_11_Charlie_pre_s50_sb75_m1.mp3",
+    "Recordings",
+    "Recordings/ElevenLabs_2023-10-08T10_09_51_Charlie_pre_s50_sb75_m1.mp3",
+    "Recordings/ElevenLabs_2023-10-13T01_50_20_Charlie_pre_s50_sb75_m1.mp3",
     "Phishing Training/11. Conclusion and Further Resources",
     "Phishing Training/10. Creating a Phishing-aware Culture",
     "Phishing Training/9. Testing and Assessment",
     "Phishing Training/7. Responding to a Phishing Attempt",
     "Phishing Training/8. Hands-on Activities and Simulations",
-    "Phishing Training/6. Preventing Phishing Attacks",
-    "Phishing Training/5. Real-world Examples and Analysis",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites",
-    "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
-    "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
-    "Phishing Training/3. Phishing Techniques & Tactics",
-    "Phishing Training/2. Understanding the Threat Landscape/2.1 Understanding the Threat Landscape.md",
-    "Phishing Training/2. Understanding the Threat Landscape/Untitled.md",
-    "Phishing Training/2. Understanding the Threat Landscape",
-    "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
-    "Phishing Training/1. Introduction to Phishing/1.4 Quiz.md",
-    "Phishing Training/1. Introduction to Phishing/Real life consequences of.md"
+    "Phishing Training/6. Preventing Phishing Attacks"
   ]
 }
