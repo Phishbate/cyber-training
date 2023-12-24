@@ -1,0 +1,37 @@
+// Dating Scams Cyber Security Course
+
+// Multiple Choice Question:
+Which of the following is a common tactic used by dating scammers?
+{
+  ~Sending one message and never replying.
+  ~Asking about your favorite movies.
+  *Asking for money due to a sudden emergency.
+  ~Sharing photos from their daily life.
+}
+
+// True/False Question:
+Dating scammers often claim to be traveling or living overseas to explain why they can't meet in person.
+{
+  T
+}
+
+// Short Answer Question:
+What is a common reason dating scammers give for needing money?
+{
+  =medical emergency
+  =family crisis
+  =lost job
+}
+
+// Matching Question:
+Match the dating scammer tactic to its description.
+a. Catfishing -> {=Using fake profiles and identities to deceive others.}
+b. Love Bombing -> {=Overwhelming someone with affection and promises to manipulate them.}
+c. Sob Stories -> {=Sharing fake personal problems to elicit sympathy and money.}
+d. Phishing -> {=Attempting to obtain sensitive information by pretending to be a trustworthy entity.}
+
+// Numerical Question:
+On average, how much money does a victim of a dating scam lose? (in USD)
+{
+  #5000:100
+}

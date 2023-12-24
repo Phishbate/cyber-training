@@ -4,103 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "131c99b841a480f4",
+        "id": "d1b0121302487b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "594e1c1148744e65",
+            "id": "85f95666aa800fef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "741a5cdf5898ff04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Phishing Training/7. Responding to a Phishing Attempt/7.3 Informing the IT & security team.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4243d24c8229661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phishing Training/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c54fb3ba043371c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38d1a1d48fbbf6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt Engineering/Code Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98febe67a3701f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a1e31970065c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c03dff435f5f11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
-                "mode": "source",
-                "source": false
+                "file": "Admin/Planning.canvas",
+                "viewState": {
+                  "x": 292.38380784446974,
+                  "y": 90.13038098871574,
+                  "zoom": -0.27681800087292985
+                }
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 297.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -159,6 +81,7 @@
       {
         "id": "66e6b0b5803cc709",
         "type": "tabs",
+        "dimension": 34.81349911190053,
         "children": [
           {
             "id": "17cc9536ef15fcfc",
@@ -166,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
+                "file": "Admin/Planning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
+                "file": "Admin/Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,12 +124,40 @@
             }
           },
           {
+            "id": "8841351754c51460",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "594e1c1148744e65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "203e3c11f505ac3e",
+        "type": "tabs",
+        "dimension": 65.18650088809946,
+        "children": [
+          {
             "id": "42b7794141a75c49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md"
+                "file": "Admin/Planning.canvas"
               }
             }
           }
@@ -214,56 +165,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c03dff435f5f11a",
+  "active": "85f95666aa800fef",
   "lastOpenFiles": [
-    "Phishing Training/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
-    "Phishing Training/1. Introduction to Phishing/1.1 What is Phishing.md",
-    "Phishing Training/1. Introduction to Phishing/1.4 Real life consequences of Phishing.md",
-    "Prompt Engineering/Prompt Library/Smart Slides/Capcun.md",
-    "Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
-    "Prompt Engineering/Prompt Library/Smart Slides",
-    "Prompt Engineering/Prompt Library/Summary.md",
+    "TBS/Pasted image 20231015201236.png",
+    "TBS",
+    "Admin/Course Progress.md",
+    "Admin",
+    "Courses/Managing Internal Threats.md",
+    "Modules/Identity Theft",
+    "Modules/Internal Threat Management",
+    "Courses/Phishing Awareness Training.md",
+    "Modules/Scams 101/Dating Scams/Dating Scams.md",
     "Prompt Engineering/Code Course.md",
-    "Prompt Engineering/Prompt Library",
-    "Prompt Engineering",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.3 Recognizing Fake URLs.md",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.2 Analyzing Email Headers.md",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.1 Common Indicators of Phishing Emails.md",
-    "Phishing Training/3. Phishing Techniques & Tactics/3.2 Understanding Deceptive URLs.md",
-    "Phishing Training/3. Phishing Techniques & Tactics/3.1 Social engineering basics.md",
-    "Phishing Training/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
-    "Phishing Training/2. Understanding the Threat Landscape/2.1 Understanding the Threat Landscape.md",
-    "Phishing Training/1. Introduction to Phishing/1.5 Quiz.md",
-    "Phishing Training/10. Creating a Phishing-aware Culture/Creating a Phishing aware culture.md",
-    "Phishing Training/9. Testing and Assessment/Untitled.md",
-    "Phishing Training/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
-    "Phishing Training/8. Hands-on Activities and Simulations/8.1 Interacting with simulated phishing emails.md",
-    "Phishing Training/7. Responding to a Phishing Attempt/7.3 Informing the IT & security team.md",
-    "Phishing Training/7. Responding to a Phishing Attempt/7.2 How to Report Phishing Attempts.md",
-    "Phishing Training/7. Responding to a Phishing Attempt/7.1 What to do if you click on a phishing link?.md",
-    "Phishing Training/4. Recognizing Phishing Emails and Websites/4.6 - Checking for misspellings and bad grammar.md",
-    "Phishing Training/5. Real-world Examples and Analysis/5.2 - What made them successful or unsuccessful?.md",
-    "Phishing Training/6. Preventing Phishing Attacks/6.4 Regular backups of critical data.md",
-    "Phishing Training/6. Preventing Phishing Attacks/6.2 Keeping Software and Systems Updated.md",
+    "Admin/Planning.canvas",
+    "Modules/Phishing",
+    "Modules/Phishing/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
+    "Modules/Phishing/3. Phishing Techniques & Tactics/3.2 Understanding Deceptive URLs.md",
+    "Modules/Phishing/11. Conclusion and Further Resources/Untitled.md",
+    "Modules/Phishing/Understanding the Phishing Threat Landscape.md",
+    "Modules/Phishing/Introduction to Phishing.md",
+    "Modules/1. Introduction to Phishing/1.5 Quiz.md",
+    "Modules/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
+    "Phishing Training/1. Introduction to Phishing/What is Phishing.md",
+    "Modules/1. Introduction to Phishing/1.4 Real life consequences of Phishing.md",
+    "TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
+    "TBS/Prompt Engineering/Prompt Library/Smart Slides/Capcun.md",
+    "Untitled.md",
     "Recordings/ElevenLabs_2023-10-06T23_51_11_Charlie_pre_s50_sb75_m1.mp3",
-    "Recordings",
-    "Recordings/ElevenLabs_2023-10-08T10_09_51_Charlie_pre_s50_sb75_m1.mp3",
-    "Recordings/ElevenLabs_2023-10-13T01_50_20_Charlie_pre_s50_sb75_m1.mp3",
-    "Phishing Training/11. Conclusion and Further Resources",
-    "Phishing Training/10. Creating a Phishing-aware Culture",
-    "Phishing Training/9. Testing and Assessment"
+    "Modules/Phishing/7. Responding to a Phishing Attempt/7.3 Informing the IT & security team.md",
+    "Modules/Phishing/8. Hands-on Activities and Simulations/8.2 Deciding whether various emails & websites are genuine or phishing attempts.md",
+    "Modules/Phishing/10. Creating a Phishing-aware Culture/Creating a Phishing aware culture.md",
+    "Modules/Phishing/8. Hands-on Activities and Simulations/8.1 Interacting with simulated phishing emails.md",
+    "Modules/Phishing/7. Responding to a Phishing Attempt/7.2 How to Report Phishing Attempts.md",
+    "Modules/Phishing/7. Responding to a Phishing Attempt/7.1 What to do if you click on a phishing link?.md",
+    "Modules/Phishing/6. Preventing Phishing Attacks/6.4 Regular backups of critical data.md",
+    "Modules/Phishing/6. Preventing Phishing Attacks/6.3 Using dedicated phishing protection tools and services.md",
+    "Courses",
+    "Cyber Toolkit",
+    "Modules/Scams 101",
+    "TBS/Demo"
   ]
 }
