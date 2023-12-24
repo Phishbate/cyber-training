@@ -1,8 +1,3 @@
-Last refreshed
-
-# Introduction to Phishing
-
-
 ## What is Phishing?
 
 Phishing is a type of social engineering attack used by cybercriminals to steal sensitive information such as passwords, credit card numbers, and other personal information. Phishing attacks are usually carried out through email, text messages, or social media messages that appear to be from a trusted source.
@@ -81,6 +76,8 @@ This overview emphasizes the myriad ways phishing can have tangible, real-world 
 
 ## Quiz
 
+---
+
 1. Which of the following best describes phishing?
 
    - A) The process of testing network vulnerabilities.
@@ -88,7 +85,11 @@ This overview emphasizes the myriad ways phishing can have tangible, real-world 
    - C) A type of software used for protecting against viruses.
    - D) The act of physically entering unauthorized premises.
 
+---
+
 Correct Answer: B) An effort to deceive users into giving away sensitive information via email.
+
+---
 
 2. What could be a consequence for businesses following a successful phishing attack?
 
@@ -97,7 +98,11 @@ Correct Answer: B) An effort to deceive users into giving away sensitive informa
    - C) Interruption of business operations and revenue loss.
    - D) Increase in share value.
 
+---
+
 Correct Answer: C) Interruption of business operations and revenue loss.
+
+---
 
 3. Why is the human factor considered a vulnerability in the context of phishing?
 
@@ -105,5 +110,7 @@ Correct Answer: C) Interruption of business operations and revenue loss.
    - B) Because humans are always the primary target of phishing attacks.
    - C) Because even with strong technical defenses, unsuspecting users can still be deceived.
    - D) Because humans are rarely targeted in cyberattacks.
-  
+
+---
+
 Correct Answer C) Because even with strong technical defenses, unsuspecting users can still be deceived.**

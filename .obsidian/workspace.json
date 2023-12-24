@@ -4,25 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b0121302487b5d",
-        "type": "tabs",
+        "id": "73224aa4b04f2621",
+        "type": "split",
         "children": [
           {
-            "id": "85f95666aa800fef",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Admin/Planning.canvas",
-                "viewState": {
-                  "x": 292.38380784446974,
-                  "y": 90.13038098871574,
-                  "zoom": -0.27681800087292985
+            "id": "d1b0121302487b5d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85f95666aa800fef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Video Slides/Phishing Awareness Slides.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            }
+            ]
+          },
+          {
+            "id": "8781b68552b8408d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f504ed2de8b7b76",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -72,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 447.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -89,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Planning.canvas",
+                "file": "Video Slides/Phishing Awareness Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Planning.canvas",
+                "file": "Video Slides/Phishing Awareness Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Planning.canvas"
+                "file": "Video Slides/Phishing Awareness Slides.md"
               }
             }
           }
@@ -175,28 +193,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "85f95666aa800fef",
+  "active": "3194460d76da937c",
   "lastOpenFiles": [
+    "Video Slides/Phishing Awareness Slides.md",
+    "Courses/Phishing Awareness Training.md",
+    "Modules/Phishing/Introduction to Phishing.md",
+    "Video Slides",
+    "Courses/Managing Internal Threats.md",
+    "Modules/Phishing/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
+    "Modules/Social Engineering/3.1 Social engineering basics.md",
+    "Modules/Social Engineering/Social Engineering Basics.md",
+    "Admin/Course Progress.md",
+    "Modules/Phishing/Phishing Techniques & Tactics.md",
+    "Modules/Social Engineering",
+    "Admin/Planning.canvas",
     "TBS/Pasted image 20231015201236.png",
     "TBS",
-    "Admin/Course Progress.md",
     "Admin",
-    "Courses/Managing Internal Threats.md",
     "Modules/Identity Theft",
     "Modules/Internal Threat Management",
-    "Courses/Phishing Awareness Training.md",
     "Modules/Scams 101/Dating Scams/Dating Scams.md",
     "Prompt Engineering/Code Course.md",
-    "Admin/Planning.canvas",
     "Modules/Phishing",
-    "Modules/Phishing/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
-    "Modules/Phishing/3. Phishing Techniques & Tactics/3.2 Understanding Deceptive URLs.md",
     "Modules/Phishing/11. Conclusion and Further Resources/Untitled.md",
     "Modules/Phishing/Understanding the Phishing Threat Landscape.md",
-    "Modules/Phishing/Introduction to Phishing.md",
     "Modules/1. Introduction to Phishing/1.5 Quiz.md",
     "Modules/1. Introduction to Phishing/1.2 Why is it important to understand phishing?.md",
     "Phishing Training/1. Introduction to Phishing/What is Phishing.md",
@@ -211,11 +235,7 @@
     "Modules/Phishing/8. Hands-on Activities and Simulations/8.1 Interacting with simulated phishing emails.md",
     "Modules/Phishing/7. Responding to a Phishing Attempt/7.2 How to Report Phishing Attempts.md",
     "Modules/Phishing/7. Responding to a Phishing Attempt/7.1 What to do if you click on a phishing link?.md",
-    "Modules/Phishing/6. Preventing Phishing Attacks/6.4 Regular backups of critical data.md",
-    "Modules/Phishing/6. Preventing Phishing Attacks/6.3 Using dedicated phishing protection tools and services.md",
     "Courses",
-    "Cyber Toolkit",
-    "Modules/Scams 101",
-    "TBS/Demo"
+    "Cyber Toolkit"
   ]
 }

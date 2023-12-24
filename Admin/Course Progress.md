@@ -10,9 +10,8 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] [[Social Engineering Basics]]
 - [ ] [[What is Phishing]]
-- [ ] [[1.2 Why is it important to understand phishing?]]
-- [ ] [[1.4 Real life consequences of Phishing]]
 
 
 ## Done
