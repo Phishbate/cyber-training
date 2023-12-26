@@ -8,64 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "318236bea66f1451",
+            "id": "a067957376c02738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Courses/Identity Safety/Course Outline.md",
-                "mode": "source",
-                "source": false
+                "file": "Admin/Course Schedule.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "a38c32905f23cf18",
-        "type": "split",
-        "children": [
-          {
-            "id": "d1b0121302487b5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4170ba7d5e74bb1d",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Admin/Planning.canvas",
-                    "viewState": {
-                      "x": 328.4755513852693,
-                      "y": 21.910105269399033,
-                      "zoom": -1.2553916904330258
-                    }
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "449420e30f228265",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "85f95666aa800fef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Courses/Phishing Awareness Training/Slides.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kanb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Identity Safety/Course Outline.md",
+                "file": "Admin/Course Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Identity Safety/Course Outline.md",
+                "file": "Admin/Course Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Identity Safety/Course Outline.md"
+                "file": "Admin/Course Schedule.md"
               }
             }
           }
@@ -231,14 +183,18 @@
   },
   "active": "3194460d76da937c",
   "lastOpenFiles": [
-    "Modules/Identity Theft/Identity 101/Impact and consequences of Identity theft.md",
+    "Admin/Planning.canvas",
+    "Modules/Phishing/Introduction to Phishing.md",
+    "Admin/Affiliate Links.md",
+    "Courses/Sample Course",
+    "Courses/Onboarding Course",
     "Courses/Identity Safety/Course Outline.md",
+    "Modules/Identity Theft/Identity 101/Impact and consequences of Identity theft.md",
     "TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
     "Modules/Identity Theft/Identity 101/Common types of Identity Theft.md",
     "Modules/Identity Theft/Identity 101/Who want's my personally identifiable information?.md",
     "Courses/Phishing Awareness Training/Course Outline.md",
     "Modules/Identity Theft/Identity 101/What makes up someone's identity.md",
-    "Admin/Planning.canvas",
     "Modules/Third Party Data Management/Removing your data from services.md",
     "Modules/Financial Management/Dealing with unauthorised transactions.md",
     "Modules/Third Party Data Management",
@@ -261,13 +217,8 @@
     "Modules/security-checklist.md",
     "Modules/Email Security",
     "Modules/Password Management",
-    "Modules/Offline Data Safety/Mail Safety.md",
     "Modules/Online Data Safety",
-    "Modules/Offline Data Safety/Securing Your Wallet & Documents.md",
     "Modules/Offline Data Safety",
-    "Modules/Social Engineering/3.1 Social engineering basics.md",
-    "Modules/Internet Safety",
-    "Modules/Identity Theft/Identity 101",
     "Modules/site/assets/images/favicon.png",
     "TBS/Pasted image 20231015201236.png"
   ]

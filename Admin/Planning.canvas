@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"6cf4f108c7145228","type":"file","file":"Courses/Phishing Awareness Training/Course Outline.md","x":-160,"y":-360,"width":400,"height":400,"color":"4"},
-		{"id":"3c2e0f6d3fd887e0","type":"file","file":"Courses/Managing Internal Threats/Managing Internal Threats.md","x":360,"y":-360,"width":400,"height":400}
+		{"id":"3c2e0f6d3fd887e0","type":"file","file":"Courses/Managing Internal Threats/Managing Internal Threats.md","x":360,"y":-360,"width":400,"height":400},
+		{"id":"7d4c2ff5a3d2913d","type":"text","text":"Month 1","x":220,"y":360,"width":250,"height":60},
+		{"id":"d36a90658a1074e6","x":-235,"y":580,"width":400,"height":400,"type":"file","file":"Modules/Phishing/Introduction to Phishing.md"},
+		{"id":"e9b9bdfd826b0e8d","type":"text","text":"Day 1","x":-160,"y":360,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"bbd99d632fcba87e","fromNode":"6cf4f108c7145228","fromSide":"right","toNode":"3c2e0f6d3fd887e0","toSide":"left"}
