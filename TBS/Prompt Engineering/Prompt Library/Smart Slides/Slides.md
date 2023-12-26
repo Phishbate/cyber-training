@@ -1,11 +1,11 @@
-- "Make me 5 slides about the Swiss Alps using the red color #FF5A5F with half images of mountains and lakes."
+- "Make me 5 slides about the Swiss Alps using the red color with half images of mountains and lakes."
 - "Create a presentation with 5 slides about Sydney with images of Bondi Beach and the Opera House."
 
 
 
 
 - Use Smart Slides to make me 5 slides in a training presentation about phishing awareness for small businesses
-- Make me a slides with this color #0061FF
+- Make me a slides with this color
 - Use creative images to illustrate the point
 - Where possible, use a humorous tone
 

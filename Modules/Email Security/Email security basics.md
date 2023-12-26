@@ -1,0 +1,4 @@
+- Protonmail
+- Consolidating email addresses
+- Access from web
+- Generate unique email addresses for each service (like protonmail email generator)

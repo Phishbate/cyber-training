@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1703583880814,
+      "items": [],
+      "title": "Courses in Progress"
+    },
+    {
+      "type": "file",
+      "ctime": 1703583835147,
+      "path": "Courses/Identity Safety/Course Outline.md",
+      "title": "Identity Safety Course"
+    },
+    {
+      "type": "group",
+      "ctime": 1703583899629,
+      "items": [],
+      "title": "Live Courses"
+    }
+  ]
+}

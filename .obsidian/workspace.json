@@ -4,35 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b0121302487b5d",
+        "id": "5c08036ff8b750a1",
         "type": "tabs",
         "children": [
           {
-            "id": "85f95666aa800fef",
+            "id": "318236bea66f1451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Phishing Awareness Training/Slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4170ba7d5e74bb1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Phishing Awareness Training/Course Outline.md",
+                "file": "Courses/Identity Safety/Course Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+        ]
+      },
+      {
+        "id": "a38c32905f23cf18",
+        "type": "split",
+        "children": [
+          {
+            "id": "d1b0121302487b5d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4170ba7d5e74bb1d",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Admin/Planning.canvas",
+                    "viewState": {
+                      "x": 328.4755513852693,
+                      "y": 21.910105269399033,
+                      "zoom": -1.2553916904330258
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "449420e30f228265",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85f95666aa800fef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/Phishing Awareness Training/Slides.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -91,7 +124,7 @@
       {
         "id": "66e6b0b5803cc709",
         "type": "tabs",
-        "dimension": 34.81349911190053,
+        "dimension": 34.81349911190054,
         "children": [
           {
             "id": "17cc9536ef15fcfc",
@@ -99,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Phishing Awareness Training/Course Outline.md",
+                "file": "Courses/Identity Safety/Course Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,20 +149,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Phishing Awareness Training/Course Outline.md",
+                "file": "Courses/Identity Safety/Course Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "552f34c648026814",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -154,12 +176,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "203e3c11f505ac3e",
         "type": "tabs",
-        "dimension": 65.18650088809946,
+        "dimension": 32.59325044404974,
         "children": [
           {
             "id": "42b7794141a75c49",
@@ -167,7 +189,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Phishing Awareness Training/Course Outline.md"
+                "file": "Courses/Identity Safety/Course Outline.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6d274aeda35777d",
+        "type": "tabs",
+        "dimension": 32.59325044404974,
+        "children": [
+          {
+            "id": "552f34c648026814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -189,46 +229,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4170ba7d5e74bb1d",
+  "active": "3194460d76da937c",
   "lastOpenFiles": [
-    "Courses/Phishing Awareness Training/Course Progress.md",
+    "Modules/Identity Theft/Identity 101/Impact and consequences of Identity theft.md",
+    "Courses/Identity Safety/Course Outline.md",
+    "TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
+    "Modules/Identity Theft/Identity 101/Common types of Identity Theft.md",
+    "Modules/Identity Theft/Identity 101/Who want's my personally identifiable information?.md",
     "Courses/Phishing Awareness Training/Course Outline.md",
-    "Modules/Phishing/2. Understanding the Threat Landscape/2.2 Overview of Phishing Techniques.md",
-    "Modules/Identity Theft/Identity Theft What It Is, How to Prevent It, Warn 4eba3fcd109b40858f140a801aae3aa0.md",
-    "Modules/Identity Theft/Identity theft - Moneysmart gov au 89a98a85ee28449c8e479adbea6542bc.md",
-    "Modules/Identity Theft/How to Protect Against Identity Theft Equifax® 734a1e282f54426b97ec76622770c051.md",
-    "Modules/Identity Theft/10 Ways To Protect Yourself From Identity Theft.md",
-    "Modules/Removable Media.md",
-    "Modules/Remote Working.md",
-    "Modules/Policy Toolkit.md",
-    "Modules/Network & Wifi Security.md",
-    "Modules/Information Security.md",
-    "Modules/Threats/Malicious Software.md",
-    "Modules/Threats/Email Attacks.md",
-    "Modules/Threats/Scam Messages.md",
-    "Modules/Threats/Threats.md",
-    "Modules/site/assets/stylesheets/palette.ecc896b0.min.css.map",
-    "Modules/site/assets/stylesheets/palette.ecc896b0.min.css",
-    "Modules/site/assets/stylesheets/main.eebd395e.min.css.map",
-    "Modules/site/assets/stylesheets/main.eebd395e.min.css",
-    "Modules/site/assets/stylesheets",
-    "Modules/site/assets/javascripts/workers/search.74e28a9f.min.js.map",
-    "Modules/site/assets/javascripts/workers/search.74e28a9f.min.js",
-    "Modules/site/assets/javascripts/workers",
-    "Modules/site/assets/javascripts/bundle.220ee61c.min.js.map",
-    "Modules/site/assets/javascripts/lunr/min/lunr.ru.min.js",
-    "Modules/site/assets/images/favicon.png",
-    "Modules/Report & Recover/Recover/Update Incident Response Plan.md",
-    "Modules/Report & Recover/Recover/Stand Down.md",
-    "Modules/Report & Recover/Recover/Recover.md",
-    "Modules/Report & Recover/Recover/Learn & Improve.md",
-    "Modules/Report & Recover/Incident Response/Breach Playbook/Breach Playbook.md",
-    "Modules/Report & Recover/Incident Response/Communication & Engagement/Internal Communications.md",
-    "Modules/Report & Recover/Incident Response/Communication & Engagement/External Communications.md",
-    "Modules/Report & Recover/Incident Response/Breach Playbook/It’s not if but when a cyber security attack will.md",
-    "Modules/Report & Recover/Incident Response/Incident Response.md",
-    "Modules/Report & Recover/Incident Response/Incident Response Checklist.md",
+    "Modules/Identity Theft/Identity 101/What makes up someone's identity.md",
     "Admin/Planning.canvas",
+    "Modules/Third Party Data Management/Removing your data from services.md",
+    "Modules/Financial Management/Dealing with unauthorised transactions.md",
+    "Modules/Third Party Data Management",
+    "Modules/Financial Management/Monitoring your credit.md",
+    "Modules/Financial Management/Protecting your financial information.md",
+    "Modules/Social Media Management/Social media basics.md",
+    "Modules/Financial Management",
+    "Modules/Social Media Management/Sharing information safely.md",
+    "Modules/Social Media Management/Reputation Management.md",
+    "Modules/Social Media Management/Privacy Settings.md",
+    "Modules/Password Management/Creating a Strong Password.md",
+    "Modules/Social Media Management",
+    "Modules/Email Security/Email Management.md",
+    "Modules/Device Management/Sharing Devices.md",
+    "Modules/Internet Safety/Browsing the web.md",
+    "Modules/Device Management",
+    "Modules/Internet Safety/Safe web browsing habits.md",
+    "Modules/Internet Safety/Using a VPN.md",
+    "Modules/Email Security/Email security basics.md",
+    "Modules/security-checklist.md",
+    "Modules/Email Security",
+    "Modules/Password Management",
+    "Modules/Offline Data Safety/Mail Safety.md",
+    "Modules/Online Data Safety",
+    "Modules/Offline Data Safety/Securing Your Wallet & Documents.md",
+    "Modules/Offline Data Safety",
+    "Modules/Social Engineering/3.1 Social engineering basics.md",
+    "Modules/Internet Safety",
+    "Modules/Identity Theft/Identity 101",
+    "Modules/site/assets/images/favicon.png",
     "TBS/Pasted image 20231015201236.png"
   ]
 }

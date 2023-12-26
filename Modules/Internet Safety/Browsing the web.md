@@ -1,0 +1,5 @@
+- **Check that the URL** for a website is the main URL you normally use to access that site.
+- **A padlock** beside a site name in the address bar or a URL that starts with ‘https’ instead of ‘http’ can mean a site is more secure than other sites.
+- **Check that the branding is accurate** – that it appears the same across all platforms, the logo is not blurred and the spelling is correct.
+- **Check your app store for reviews** of apps before you download them. If there are lots of users and good reviews, it’s unlikely to be a scam. If there aren’t any reviews, do an online search – scams usually get identified fairly quickly and people often post online about them.
+- **Check out** [Scamwatch](https://www.scamwatch.gov.au/) and [Stay Smart Online](https://www.cyber.gov.au/acsc/report).’
