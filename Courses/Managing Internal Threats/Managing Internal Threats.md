@@ -1,8 +1,8 @@
 Certainly! A course on "Managing Internal Threats" in the context of cybersecurity would be invaluable given that internal threats are a significant concern for many organizations. Here is a module-by-module breakdown:
 
 ### **Module 1: Introduction to Internal Threats**
-- Definition and types of internal threats.
-- Differences between internal and external threats.
+- [ ] [[Definition and types of internal threats]]
+- [ ] [[Differences between internal and external threats]]
 - Historical incidents and case studies of internal breaches.
 
 ### **Module 2: Risk Factors and Identification**

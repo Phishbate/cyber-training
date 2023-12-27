@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "5c08036ff8b750a1",
+        "id": "4cc8c5d1efd81c83",
         "type": "tabs",
         "children": [
           {
-            "id": "a067957376c02738",
+            "id": "f7fa0f704d365831",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Admin/Course Schedule.md"
+                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c43222e215f7cb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "210308aa09b91b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Managing Internal Threats/Definition and types of internal threats.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,10 +66,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kanb",
+                "query": "mfa",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -67,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 341.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -84,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Course Schedule.md",
+                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Course Schedule.md",
+                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Course Schedule.md"
+                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md"
               }
             }
           }
@@ -178,17 +198,34 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3194460d76da937c",
+  "active": "f7fa0f704d365831",
   "lastOpenFiles": [
+    "Modules/Managing Internal Threats/Definition and types of internal threats.md",
+    "Courses/Managing Internal Threats/Managing Internal Threats.md",
+    "Modules/Managing Internal Threats/Differences between internal and external threats.md",
+    "Modules/Managing Internal Threats",
+    "Modules/Internet Safety/Browsing the web.md",
     "Admin/Planning.canvas",
-    "Modules/Phishing/Introduction to Phishing.md",
+    "Admin/Course Schedule.md",
     "Admin/Affiliate Links.md",
+    "Modules/Email Security/Email security basics.md",
+    "Modules/Email Security/Email Management.md",
+    "Modules/MFA/MFA.md",
+    "Modules/MFA/2FA.md",
+    "Modules/MFA",
+    "Modules/Internet Safety/Safe web browsing habits.md",
+    "Modules/Internet Safety/Using a VPN.md",
+    "Modules/Secure Network Infrastructure/Wireless Network Security.md",
+    "Modules/Conclusion & Next Steps/Recap of Key Takeaways.md",
+    "Courses/Identity Safety/Course Outline.md",
+    "Modules/Phishing/Introduction to Phishing.md",
     "Courses/Sample Course",
     "Courses/Onboarding Course",
-    "Courses/Identity Safety/Course Outline.md",
     "Modules/Identity Theft/Identity 101/Impact and consequences of Identity theft.md",
     "TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
     "Modules/Identity Theft/Identity 101/Common types of Identity Theft.md",
@@ -200,25 +237,11 @@
     "Modules/Third Party Data Management",
     "Modules/Financial Management/Monitoring your credit.md",
     "Modules/Financial Management/Protecting your financial information.md",
-    "Modules/Social Media Management/Social media basics.md",
     "Modules/Financial Management",
-    "Modules/Social Media Management/Sharing information safely.md",
-    "Modules/Social Media Management/Reputation Management.md",
-    "Modules/Social Media Management/Privacy Settings.md",
-    "Modules/Password Management/Creating a Strong Password.md",
     "Modules/Social Media Management",
-    "Modules/Email Security/Email Management.md",
-    "Modules/Device Management/Sharing Devices.md",
-    "Modules/Internet Safety/Browsing the web.md",
     "Modules/Device Management",
-    "Modules/Internet Safety/Safe web browsing habits.md",
-    "Modules/Internet Safety/Using a VPN.md",
-    "Modules/Email Security/Email security basics.md",
-    "Modules/security-checklist.md",
     "Modules/Email Security",
     "Modules/Password Management",
-    "Modules/Online Data Safety",
-    "Modules/Offline Data Safety",
     "Modules/site/assets/images/favicon.png",
     "TBS/Pasted image 20231015201236.png"
   ]
