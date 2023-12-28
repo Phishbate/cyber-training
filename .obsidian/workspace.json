@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c43222e215f7cb89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "210308aa09b91b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modules/Managing Internal Threats/Definition and types of internal threats.md",
+                "file": "Admin/Affiliate Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
+                "file": "Admin/Affiliate Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md",
+                "file": "Admin/Affiliate Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Managing Internal Threats/Managing Internal Threats.md"
+                "file": "Admin/Affiliate Links.md"
               }
             }
           }
@@ -203,18 +185,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f7fa0f704d365831",
+  "active": "3194460d76da937c",
   "lastOpenFiles": [
-    "Modules/Managing Internal Threats/Definition and types of internal threats.md",
-    "Courses/Managing Internal Threats/Managing Internal Threats.md",
-    "Modules/Managing Internal Threats/Differences between internal and external threats.md",
-    "Modules/Managing Internal Threats",
-    "Modules/Internet Safety/Browsing the web.md",
-    "Admin/Planning.canvas",
     "Admin/Course Schedule.md",
     "Admin/Affiliate Links.md",
     "Modules/Email Security/Email security basics.md",
     "Modules/Email Security/Email Management.md",
+    "Courses/Managing Internal Threats/Managing Internal Threats.md",
+    "Admin/Planning.canvas",
+    "Modules/Managing Internal Threats/Definition and types of internal threats.md",
+    "Modules/Managing Internal Threats/Differences between internal and external threats.md",
+    "Modules/Managing Internal Threats",
+    "Modules/Internet Safety/Browsing the web.md",
     "Modules/MFA/MFA.md",
     "Modules/MFA/2FA.md",
     "Modules/MFA",
@@ -236,7 +218,6 @@
     "Modules/Financial Management/Dealing with unauthorised transactions.md",
     "Modules/Third Party Data Management",
     "Modules/Financial Management/Monitoring your credit.md",
-    "Modules/Financial Management/Protecting your financial information.md",
     "Modules/Financial Management",
     "Modules/Social Media Management",
     "Modules/Device Management",
