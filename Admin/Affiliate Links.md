@@ -6,6 +6,7 @@
 | Aura |  |  |  |  |  |
 | Norton Lifelock | Known for its comprehensive security solutions, they offer a lucrative affiliate program. |  |  |  |  |
 | Authy | Authenticator application |  |  |  |  |
+| Example |  |  |  |  |  |
 
 I am creating a training platform for cyber security and would like to include a number of affiliate links, can you provide a list of possible affiliate websites with affiliate programs I could use?
 

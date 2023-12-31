@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/Scams 101/Employment Scams.md",
+                "file": "Admin/Affiliate Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modules/Scams 101/Employment Scams.md",
+                "file": "Admin/Affiliate Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modules/Scams 101/Employment Scams.md",
+                "file": "Admin/Affiliate Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Scams 101/Employment Scams.md"
+                "file": "Admin/Affiliate Links.md"
               }
             }
           }
@@ -187,8 +187,8 @@
   },
   "active": "f7fa0f704d365831",
   "lastOpenFiles": [
-    "Admin/Affiliate Links.md",
     "Modules/Scams 101/Employment Scams.md",
+    "Admin/Affiliate Links.md",
     "Admin/Course Schedule.md",
     "Modules/Email Security/Email security basics.md",
     "Modules/Email Security/Email Management.md",
