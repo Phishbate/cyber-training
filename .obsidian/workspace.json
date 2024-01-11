@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Affiliate Links.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mfa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin/Affiliate Links.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin/Affiliate Links.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Affiliate Links.md"
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md"
               }
             }
           }
@@ -187,43 +187,43 @@
   },
   "active": "f7fa0f704d365831",
   "lastOpenFiles": [
-    "Modules/Scams 101/Employment Scams.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Create a plan to respond to cyber security incidents.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Select suppliers who are diligent with cyber security.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Carry out regular security testing.md",
+    "Cyber Security Assessment/Questions/Questions.md",
+    "Cyber Security Assessment/Maturity Assessment.md",
+    "Cyber Security Assessment/Recommendations/2. Action Next/Use secure methods to share confidential or sensitive information.md",
+    "Cyber Security Assessment/Recommendations/2. Action Next/Handle sensitive client, business and staff information securely.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Control or manage software installation.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Back up important information.md",
+    "Cyber Security Assessment/Questions",
+    "Cyber Security Assessment",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Conduct background screenings when hiring new staff.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Ensure your staff are made aware of your business’ incident response plan and their responsibilities.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Test your incident response plan regularly.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Undertake a post incident review process.md",
+    "Cyber Security Assessment/Recommendations/2. Action Next",
+    "Cyber Security Assessment/Recommendations/1. Action Now",
+    "Cyber Security Assessment/Recommendations/3. Action Later",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Recover your business systems after a cyber security incident.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Keep your business mobile phones, laptops and tablets secure.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Understand your business' compliance obligations.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Address issues identified through security testing.md",
+    "Cyber Security Assessment/Recommendations/2. Action Next/Provide staff cyber security awareness training.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+    "Cyber Security Assessment/Recommendations/2. Action Next/Detect cyber security issues in your internal IT systems.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Test your business backups on a regular basis.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Limit the use of administrator accounts.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Keep your devices and software up to date.md",
+    "Cyber Security Assessment/Recommendations",
     "Admin/Affiliate Links.md",
-    "Admin/Course Schedule.md",
-    "Modules/Email Security/Email security basics.md",
-    "Modules/Email Security/Email Management.md",
-    "Courses/Managing Internal Threats/Managing Internal Threats.md",
+    "Modules/Scams 101/Employment Scams.md",
     "Admin/Planning.canvas",
-    "Modules/Managing Internal Threats/Definition and types of internal threats.md",
-    "Modules/Managing Internal Threats/Differences between internal and external threats.md",
     "Modules/Managing Internal Threats",
-    "Modules/Internet Safety/Browsing the web.md",
-    "Modules/MFA/MFA.md",
-    "Modules/MFA/2FA.md",
     "Modules/MFA",
-    "Modules/Internet Safety/Safe web browsing habits.md",
-    "Modules/Internet Safety/Using a VPN.md",
-    "Modules/Secure Network Infrastructure/Wireless Network Security.md",
-    "Modules/Conclusion & Next Steps/Recap of Key Takeaways.md",
-    "Courses/Identity Safety/Course Outline.md",
-    "Modules/Phishing/Introduction to Phishing.md",
     "Courses/Sample Course",
     "Courses/Onboarding Course",
-    "Modules/Identity Theft/Identity 101/Impact and consequences of Identity theft.md",
-    "TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
-    "Modules/Identity Theft/Identity 101/Common types of Identity Theft.md",
-    "Modules/Identity Theft/Identity 101/Who want's my personally identifiable information?.md",
-    "Courses/Phishing Awareness Training/Course Outline.md",
-    "Modules/Identity Theft/Identity 101/What makes up someone's identity.md",
-    "Modules/Third Party Data Management/Removing your data from services.md",
-    "Modules/Financial Management/Dealing with unauthorised transactions.md",
-    "Modules/Third Party Data Management",
-    "Modules/Financial Management/Monitoring your credit.md",
-    "Modules/Financial Management",
-    "Modules/Social Media Management",
-    "Modules/Device Management",
-    "Modules/Email Security",
-    "Modules/Password Management",
     "Modules/site/assets/images/favicon.png",
     "TBS/Pasted image 20231015201236.png"
   ]
