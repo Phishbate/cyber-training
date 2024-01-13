@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 501.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md"
+                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md"
               }
             }
           }
@@ -187,16 +187,20 @@
   },
   "active": "f7fa0f704d365831",
   "lastOpenFiles": [
-    "Cyber Security Assessment/Recommendations/3. Action Later/Create a plan to respond to cyber security incidents.md",
+    "Cyber Security Assessment/Questions/Questions.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Keep your devices and software up to date.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Control or manage software installation.md",
+    "Cyber Security Assessment/Recommendations/1. Action Now/Back up important information.md",
+    "Cyber Security Assessment/Q&R.canvas",
+    "Cyber Security Assessment/Q&A.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
+    "Cyber Security Assessment/Recommendations/3. Action Later/Create a plan to respond to cyber security incidents.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Select suppliers who are diligent with cyber security.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Carry out regular security testing.md",
-    "Cyber Security Assessment/Questions/Questions.md",
     "Cyber Security Assessment/Maturity Assessment.md",
     "Cyber Security Assessment/Recommendations/2. Action Next/Use secure methods to share confidential or sensitive information.md",
     "Cyber Security Assessment/Recommendations/2. Action Next/Handle sensitive client, business and staff information securely.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Control or manage software installation.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Back up important information.md",
     "Cyber Security Assessment/Questions",
     "Cyber Security Assessment",
     "Cyber Security Assessment/Recommendations/3. Action Later/Conduct background screenings when hiring new staff.md",
@@ -211,14 +215,10 @@
     "Cyber Security Assessment/Recommendations/3. Action Later/Understand your business' compliance obligations.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Address issues identified through security testing.md",
     "Cyber Security Assessment/Recommendations/2. Action Next/Provide staff cyber security awareness training.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
     "Cyber Security Assessment/Recommendations/2. Action Next/Detect cyber security issues in your internal IT systems.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Test your business backups on a regular basis.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Limit the use of administrator accounts.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Keep your devices and software up to date.md",
     "Cyber Security Assessment/Recommendations",
-    "Admin/Affiliate Links.md",
-    "Modules/Scams 101/Employment Scams.md",
     "Admin/Planning.canvas",
     "Modules/Managing Internal Threats",
     "Modules/MFA",
