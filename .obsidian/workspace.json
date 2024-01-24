@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md"
+                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md"
               }
             }
           }
@@ -185,10 +185,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f7fa0f704d365831",
+  "active": "3194460d76da937c",
   "lastOpenFiles": [
-    "Cyber Security Assessment/Questions/Questions.md",
+    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy",
+    "Cyber Toolkit/Email Security/Configuring Email Authentication.md",
+    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
+    "Cyber Toolkit/Email Security/SPAM & Anti-Virus Protection.md",
+    "Cyber Toolkit/Email Security/Two-Factor Webmail Access/Securing Webmail.md",
+    "Cyber Toolkit/Network & Wi-Fi Security/Secure Network Checklist.md",
+    "Cyber Toolkit/Network & Wi-Fi Security/Wi-Fi Checklist.md",
+    "Cyber Toolkit/Email Security/Two-Factor Webmail Access",
+    "Cyber Toolkit/Email Security",
     "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
+    "Cyber Toolkit/Network & Wi-Fi Security",
+    "Cyber Toolkit",
+    "Cyber Security Assessment/Questions/Questions.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Keep your devices and software up to date.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Control or manage software installation.md",
     "Cyber Security Assessment/Recommendations/1. Action Now/Back up important information.md",
@@ -212,18 +223,8 @@
     "Cyber Security Assessment/Recommendations/3. Action Later",
     "Cyber Security Assessment/Recommendations/3. Action Later/Recover your business systems after a cyber security incident.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Keep your business mobile phones, laptops and tablets secure.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Understand your business' compliance obligations.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Address issues identified through security testing.md",
-    "Cyber Security Assessment/Recommendations/2. Action Next/Provide staff cyber security awareness training.md",
-    "Cyber Security Assessment/Recommendations/2. Action Next/Detect cyber security issues in your internal IT systems.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Test your business backups on a regular basis.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Limit the use of administrator accounts.md",
     "Cyber Security Assessment/Recommendations",
     "Admin/Planning.canvas",
-    "Modules/Managing Internal Threats",
-    "Modules/MFA",
-    "Courses/Sample Course",
-    "Courses/Onboarding Course",
     "Modules/site/assets/images/favicon.png",
     "TBS/Pasted image 20231015201236.png"
   ]
