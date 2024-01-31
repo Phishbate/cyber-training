@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
+                "file": "Cyber Wardens/Level 1/Module 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 200
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
+                "file": "Cyber Wardens/Level 1/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
+                "file": "Cyber Wardens/Level 1/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md"
+                "file": "Cyber Wardens/Level 1/Module 3.md"
               }
             }
           }
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +186,27 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3194460d76da937c",
+  "active": "f7fa0f704d365831",
   "lastOpenFiles": [
+    "Pasted image 20240131193332.png",
+    "Cyber Wardens/Level 1/Module 3.md",
+    "Cyber Wardens/Level 1/Module 2.md",
+    "Cyber Wardens/Level 1/Module 1.md",
+    "Cyber Wardens/Level 1",
+    "Pasted image 20240131195602.png",
+    "Pasted image 20240131195022.png",
+    "Pasted image 20240131195013.png",
+    "Pasted image 20240131195003.png",
+    "Pasted image 20240131194915.png",
+    "Pasted image 20240131194838.png",
+    "Pasted image 20240131194820.png",
+    "Pasted image 20240131194805.png",
+    "Pasted image 20240131194751.png",
+    "Pasted image 20240131194735.png",
+    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
+    "Cyber Wardens",
     "Cyber Toolkit/Email Security/Acceptable Email Usage Policy",
     "Cyber Toolkit/Email Security/Configuring Email Authentication.md",
-    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
     "Cyber Toolkit/Email Security/SPAM & Anti-Virus Protection.md",
     "Cyber Toolkit/Email Security/Two-Factor Webmail Access/Securing Webmail.md",
     "Cyber Toolkit/Network & Wi-Fi Security/Secure Network Checklist.md",
@@ -217,15 +234,7 @@
     "Cyber Security Assessment/Recommendations/3. Action Later/Conduct background screenings when hiring new staff.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Ensure your staff are made aware of your business’ incident response plan and their responsibilities.md",
     "Cyber Security Assessment/Recommendations/3. Action Later/Test your incident response plan regularly.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Undertake a post incident review process.md",
     "Cyber Security Assessment/Recommendations/2. Action Next",
-    "Cyber Security Assessment/Recommendations/1. Action Now",
-    "Cyber Security Assessment/Recommendations/3. Action Later",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Recover your business systems after a cyber security incident.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Keep your business mobile phones, laptops and tablets secure.md",
-    "Cyber Security Assessment/Recommendations",
-    "Admin/Planning.canvas",
-    "Modules/site/assets/images/favicon.png",
-    "TBS/Pasted image 20231015201236.png"
+    "Admin/Planning.canvas"
   ]
 }
