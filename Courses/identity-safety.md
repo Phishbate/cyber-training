@@ -1,3 +1,5 @@
+# Identity Safety
+
 Course Objective
 1. Define identity theft and its various forms.
 2. Recognize the signs and consequences of identity theft.

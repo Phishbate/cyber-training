@@ -11,12 +11,8 @@
             "id": "f7fa0f704d365831",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Wardens/Level 1/Module 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "right": {
     "id": "7244fc99b0a6b08a",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Wardens/Level 1/Module 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Wardens/Level 1/Module 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber Wardens/Level 1/Module 3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -188,53 +180,54 @@
   },
   "active": "f7fa0f704d365831",
   "lastOpenFiles": [
-    "Pasted image 20240131193332.png",
-    "Cyber Wardens/Level 1/Module 3.md",
-    "Cyber Wardens/Level 1/Module 2.md",
-    "Cyber Wardens/Level 1/Module 1.md",
-    "Cyber Wardens/Level 1",
-    "Pasted image 20240131195602.png",
-    "Pasted image 20240131195022.png",
-    "Pasted image 20240131195013.png",
-    "Pasted image 20240131195003.png",
-    "Pasted image 20240131194915.png",
-    "Pasted image 20240131194838.png",
-    "Pasted image 20240131194820.png",
-    "Pasted image 20240131194805.png",
-    "Pasted image 20240131194751.png",
-    "Pasted image 20240131194735.png",
-    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy/Email Usage Policy.md",
-    "Cyber Wardens",
-    "Cyber Toolkit/Email Security/Acceptable Email Usage Policy",
-    "Cyber Toolkit/Email Security/Configuring Email Authentication.md",
-    "Cyber Toolkit/Email Security/SPAM & Anti-Virus Protection.md",
-    "Cyber Toolkit/Email Security/Two-Factor Webmail Access/Securing Webmail.md",
-    "Cyber Toolkit/Network & Wi-Fi Security/Secure Network Checklist.md",
-    "Cyber Toolkit/Network & Wi-Fi Security/Wi-Fi Checklist.md",
-    "Cyber Toolkit/Email Security/Two-Factor Webmail Access",
-    "Cyber Toolkit/Email Security",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Handle sensitive client, business and staff information securely.md",
-    "Cyber Toolkit/Network & Wi-Fi Security",
-    "Cyber Toolkit",
-    "Cyber Security Assessment/Questions/Questions.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Keep your devices and software up to date.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Control or manage software installation.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Back up important information.md",
+    "Courses/warden.md",
+    "Courses/onboarding.md",
+    "Courses/password-management.md",
+    "Courses/Creating a Strong Password.md",
+    "Courses/sample-course.md",
+    "Courses/Managing Internal Threats.md",
+    "Courses/identity-safety.md",
+    "Courses/Identity Safety/identity-safety.md",
+    "Courses/Identity Safety/Course Outline.md",
+    "Courses/Identity Safety",
+    "docs/Identity Safety/Course Outline.md",
+    "docs/Course Outline.md",
+    "docs/Identity Safety",
+    "README.md",
+    "Backup/README.md",
+    "Backup",
+    "tests/Preprocessor.elm",
+    "tests/Parser/Inline/Basic.elm",
+    "tests/Parser/Inline",
+    "tests/Parser",
+    "tests/LiaFuzz.elm",
+    "static/icon.ico",
+    "src/assets/logo_192.png",
+    "src/assets/fonts/icon/fonts/icon.woff",
+    "src/assets/fonts/icon/fonts/icon.svg",
+    "src/assets/fonts/source-code-pro/source-code-pro-v13-latin-regular.svg",
+    "src/assets/fonts/source-code-pro/source-code-pro-v13-latin-600.svg",
+    "src/assets/fonts/source-sans-pro/source-sans-pro-v14-latin-600.svg",
+    "src/assets/fonts/source-sans-pro/source-sans-pro-v14-latin-regular.svg",
+    "src/assets/fonts/source-sans-pro/source-sans-pro-v14-latin-700.svg",
+    "src/assets/fonts/source-serif-pro/source-serif-pro-v10-latin-700.svg",
+    "src/assets/fonts/source-serif-pro/source-serif-pro-v10-latin-600.svg",
+    "src/assets/icons/chevron-left.svg",
+    "src/assets/README.md",
+    "src/typescript/webcomponents/embed/README.md",
+    "patches/elm-patch/README.md",
+    "lia-localization/README.md",
+    "docs/EDITOR.md",
+    "Courses/TBS/Prompt Engineering/Prompt Library/Smart Slides/Slides.md",
+    "Courses/TBS/Prompt Engineering/Prompt Library/Smart Slides/Capcun.md",
+    "Courses/TBS/Prompt Engineering/Prompt Library/Summary.md",
+    "Courses/TBS/Demo/Recording Script.md",
+    "Admin/Affiliate Links.md",
+    "Courses/Admin/Planning.canvas",
+    "Courses/Admin/Affiliate Links.md",
+    "Courses/Admin/Course Schedule.md",
+    "Courses/Modules/Report & Recover/Incident Response/Communication & Engagement/Internal Communications.md",
     "Cyber Security Assessment/Q&R.canvas",
-    "Cyber Security Assessment/Q&A.md",
-    "Cyber Security Assessment/Recommendations/1. Action Now/Limit access to your devices, systems and applications.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Create a plan to respond to cyber security incidents.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Select suppliers who are diligent with cyber security.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Carry out regular security testing.md",
-    "Cyber Security Assessment/Maturity Assessment.md",
-    "Cyber Security Assessment/Recommendations/2. Action Next/Use secure methods to share confidential or sensitive information.md",
-    "Cyber Security Assessment/Recommendations/2. Action Next/Handle sensitive client, business and staff information securely.md",
-    "Cyber Security Assessment/Questions",
-    "Cyber Security Assessment",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Conduct background screenings when hiring new staff.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Ensure your staff are made aware of your business’ incident response plan and their responsibilities.md",
-    "Cyber Security Assessment/Recommendations/3. Action Later/Test your incident response plan regularly.md",
-    "Cyber Security Assessment/Recommendations/2. Action Next",
     "Admin/Planning.canvas"
   ]
 }
