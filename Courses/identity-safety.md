@@ -42,14 +42,16 @@ You can never completely protect your personal information from falling into the
 6. Safeguard their online and offline personal information.
 
 
-### Protecting your identity
+### ▶️ Protecting your identity
 
 !?[Identity Theft in Australia](https://www.youtube.com/watch?v=1-VBS7vyT6M&list=PL9W4pGK2nEZcwBDgV30yIVXevfX2cqycm)
 
 ### How safe is your identity?
 
+--{{1}}--
 According to a 2021 poll by Debt.com, four in 10 people reported being victims of identity theft. While that might leave room for many people to say, “Oh, it won’t happen to me,” new figures on rising instances of identity theft bring cause for alarm.
 
+--{{2}}--
 According to a February 2021 report from the Federal Trade Commission, Americans reported losing $3.3 billion to fraud in 2020–a significant jump from the $1.8 billion reported in 2019. The number of Americans reporting losing money to fraud is also on the rise, with 34% of 2020 fraud reports citing loss of money, versus 23% in 2019.
 
 In 2021, rising identity theft cases came from an unlikely source: government benefits. Naftali Harris, co-founder and CEO of [SentiLink](https://www.sentilink.com/), a firm specializing in fraud schemes, tactics and identity verification, says “Much of this is due to fraudsters taking advantage of weakly secured unemployment insurance programs [and fraudsters] stealing the identities of citizens and claiming benefits in their name,” he says.
@@ -117,7 +119,7 @@ In this course module, we will explore the various types of identity theft that 
 
 By the end of this course module, learners will have a comprehensive understanding of the common types of identity theft and be equipped with practical knowledge to safeguard their identities.
 
-### Quiz
+### ✅ Quiz
 
 ---
 
