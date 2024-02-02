@@ -5,15 +5,20 @@ email:    matt@phishbate.com
 version:  0.1.0
 language: en
 narrator: AU English Male
+mode: Slides
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 logo:     https://liascript.github.io/img/bg-showcase-1.jpg
+https://github.com/Phishbate/cyber-training/img/phishbate-logo.png
 
-comment:  Course under construction
+
+comment:  Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
 
 -->
 
-
-# Identity Safety
+# Identity Safety Course
 Your identity is one of the most valuable things you have. Being able to prove who you are is
 important for most aspects of your life – from getting a home loan to starting a new job to buying something online.
 
@@ -37,6 +42,9 @@ You can never completely protect your personal information from falling into the
 6. Safeguard their online and offline personal information.
 
 
+### Protecting your identity
+
+!?[Identity Theft in Australia](https://www.youtube.com/watch?v=1-VBS7vyT6M&list=PL9W4pGK2nEZcwBDgV30yIVXevfX2cqycm)
 
 ### How safe is your identity?
 
@@ -48,13 +56,10 @@ In 2021, rising identity theft cases came from an unlikely source: government be
 
 Data from the FTC shows that consumers reported 40 times more benefits fraud to the FTC in Q1 2021 than Q1 2020, likely linked to the increase in unemployment filings due to pandemic shutdowns and job market stresses.
 
+### Recovering your identity
 
-!?[Identity Theft in Australia](https://www.youtube.com/watch?v=uSiDqLXiGMU)
+!?[Identity Theft in Australia](https://www.youtube.com/watch?v=adTIBKBE_ic)
 
-- [ ] [[What makes up someone's identity]]
-- [v] [[Who want's my personally identifiable information?]]
-- [ ] [[Common types of Identity Theft]]
-- [ ] [[Impact and consequences of Identity theft]]
 
 ### Targets of Identity Theft
 
@@ -71,6 +76,8 @@ Simply having a Social Security number makes you at-risk for identity fraud, yet
 ## Identity 101
 
 ### What is identity theft?
+
+
 Your identity is one of the most valuable things you have. Being able to prove who you are is important for most aspects of your life – from getting a home loan to starting a new job to buying something online. If criminals steal your identity, you may find everyday activities like these more difficult. The stress and financial costs can last for years. The Australian government has published this booklet to help you protect your identity. It includes a number of quick and easy tips you can use to reduce the risk of becoming a victim of identity theft. You will also find suggestions about what you should do if your identity has been stolen. You can never completely protect your personal information from falling into the wrong hands. However, if you follow the advice in this course you can significantly reduce the risk.
 
 ### What makes up your identity?
@@ -110,21 +117,27 @@ In this course module, we will explore the various types of identity theft that 
 
 By the end of this course module, learners will have a comprehensive understanding of the common types of identity theft and be equipped with practical knowledge to safeguard their identities.
 
+### Quiz
+
 ---
 
-What is $37 + 15$?
+**Which of the following is NOT considered PII**
 
-    [[52]]
-    [[?]] the solution is larger than 50
-    [[?]] it is less than 55
-    [[?]] it should be an even number
+- [( )] Name
+- [(X)] What you had for lunch
+- [( )] Date of birth
+- [( )] Work email address
 
-This is also a valid quiz ...
+---
 
-[[52]]
-- [[?]] the solution is larger than 50
-- [[?]] it is less than 55
-- [[?]] it should be an even number
+**Which of the following are common types of identity theft**
+
+- [[X]] Financial identity theft & fraud
+- [[X]] Medical identity theft
+- [[ ]] Radio broadcasts
+- [[ ]] Sending handwritten letters
+
+---
 
 ## Why Identity Theft Matters
 
@@ -199,11 +212,13 @@ If you’re considering paying for identity protection, there are many companies
 However, it’s difficult to justify the cost with all the free tools available from reputable companies like Experian, Credit Karma, and various credit card issuers. If you want the convenience of a paid subscription and added bells and whistles, you might find a paid identity monitoring service makes sense.
 
 
-## Summary
+## Conclusion & Recap
+
+### Key Takeaways
 
 Protecting your identity can seem complicated, so here are 10 simple identity security tips:
 
-1.  Secure your personal documents at home, when you are travelling and if you need to destroy them.
+1. Secure your personal documents at home, when you are travelling and if you need to destroy them.
 2. Secure your computer and mobile phone with security software and strong passwords and avoid using public computers for sensitive activities.
 3. Be cautious about using social media and limit the amount of personal information you publish online.
 4. Secure your computer and mobile phone with security software and strong passwords and avoid using public computers for sensitive activities.
