@@ -1,14 +1,21 @@
 <!--
+author:   Matt Anderson
 
-author: Matt Anderson
-email: matt@phishbate.com
-version: 0.1.0
+email:    matt@phishbate.com
+
+version:  0.1.0
+
 language: en
-narrator: US English Male
 
-mode: Slides
+narrator: US English Female
 
-comment: Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
+comment:  Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+mode:     Slides
 
 -->
 
