@@ -4,7 +4,7 @@ email:    matt@phishbate.com
 version:  0.1.0
 language: en
 narrator: Australian Male
-mode:     Presentation
+mode:     Slides
 link:     ./css/custom.css
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 logo:     ./img/covers/bg-showcase-1.jpg
