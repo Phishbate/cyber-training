@@ -1,14 +1,14 @@
 <!--
 
-author:     Matt Anderson
-email:      matt@phishbate.com
-version:    0.1.0
-language:   en
-narrator:   Australian Female
+author: Matt Anderson
+email: matt@phishbate.com
+version: 0.1.0
+language: en
+narrator: US English Male
 
-mode:       Slides
+mode: Slides
 
-comment:    Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
+comment: Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
 
 -->
 
