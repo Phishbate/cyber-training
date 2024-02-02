@@ -5,11 +5,12 @@ version:  0.1.0
 language: en
 narrator: Australian Male
 mode:     Presentation
-link:     ./css/customer.css
+link:     ./css/custom.css
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 logo:     ./img/covers/bg-showcase-1.jpg
 comment:  Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
 -->
+
 
 # Identity Safety Course
 Your identity is one of the most valuable things you have. Being able to prove who you are is
