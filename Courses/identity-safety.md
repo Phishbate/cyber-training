@@ -6,8 +6,6 @@ version:    0.1.0
 language:   en
 narrator:   Australian Male
 
-logo:       https://github.com/Phishbate/cyber-training/blob/24470259ed378529fd634cc03d430c4127ae65b7/Courses/img/covers/bg-showcase-1.jpg
-
 mode:       Slides
 
 comment:    Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
