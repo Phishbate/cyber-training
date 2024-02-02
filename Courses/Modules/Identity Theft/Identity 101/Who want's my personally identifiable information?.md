@@ -1,5 +1,0 @@
-#Review
-
-- **Scammers and identity thieves.** If scammers and identity thieves uncover your personally identifiable information, they can pretend to be you and create fake accounts in your name, and act in ways that could impact you now or in the future. This could include fraud like stealing money from your bank account or taking out a loan in your name.
-- **Bullies and doxers.** There may be people on the internet who want to use your data for personal motives. A bully might use your email and password to pose as you and share mean or embarrassing content on your social media accounts, while a ‘doxer’ might share your street address and name with people who want to scare or harm you.
-- **Social media companies, games, apps and shopping sites.** Many companies collect your data to make money through selling it to marketers or by targeting you with personalised ads. If the service is free, generally it’s your data that is being solen
