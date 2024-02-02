@@ -1,3 +1,18 @@
+<!--
+
+author:   Matt Anderson
+email:    matt@phishbate.com
+version:  0.1.0
+language: en
+narrator: AU English Male
+
+logo:     https://liascript.github.io/img/bg-showcase-1.jpg
+
+comment:  Course under construction
+
+-->
+
+
 # Identity Safety
 Your identity is one of the most valuable things you have. Being able to prove who you are is
 important for most aspects of your life – from getting a home loan to starting a new job to buying something online.
