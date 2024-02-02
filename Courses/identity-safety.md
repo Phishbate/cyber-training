@@ -4,7 +4,7 @@ author:     Matt Anderson
 email:      matt@phishbate.com
 version:    0.1.0
 language:   en
-narrator:   Australian Male
+narrator:   Australian Female
 
 mode:       Slides
 
