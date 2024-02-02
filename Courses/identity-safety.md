@@ -44,7 +44,7 @@ You can never completely protect your personal information from falling into the
 6. Safeguard their online and offline personal information.
 
 
-### ▶️ Protecting your identity
+### Protecting your identity
 
 !?[Identity Theft in Australia](https://www.youtube.com/watch?v=1-VBS7vyT6M&list=PL9W4pGK2nEZcwBDgV30yIVXevfX2cqycm)
 
@@ -121,7 +121,7 @@ In this course module, we will explore the various types of identity theft that 
 
 By the end of this course module, learners will have a comprehensive understanding of the common types of identity theft and be equipped with practical knowledge to safeguard their identities.
 
-### ✅ Quiz
+### Quiz
 
 ---
 
