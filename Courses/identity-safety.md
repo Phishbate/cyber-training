@@ -7,7 +7,11 @@ version:  0.1.1
 
 language: en
 
-narrator: US English Female
+narrator: Australian Male
+
+icon:   img/logo/phishbate-logo.png
+
+logo:   img/covers/identity-safety.png
 
 comment:  Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
 

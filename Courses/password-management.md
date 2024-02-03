@@ -1,3 +1,6 @@
+# Password Management
+
+
 1. Use a unique password for each account: Do not use the same password across multiple accounts.
 2. Use a mix of characters: Use a mix of uppercase and lowercase letters, numbers, and special characters in your passwords.
 3. Avoid using personal information: Do not use personal information such as your name, birthdate, or address in your passwords.
