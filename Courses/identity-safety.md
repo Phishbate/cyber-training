@@ -9,7 +9,7 @@ language: en
 
 narrator: Australian Male
 
-icon:   img/logo/phishbate-logo.png
+icon:   img/logo/lia-phishbate-logo.png
 
 logo:   img/covers/identity-safety.png
 
