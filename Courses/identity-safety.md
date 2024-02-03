@@ -7,7 +7,7 @@ version:  0.1.1
 
 language: en
 
-narrator: Australian Male
+narrator: Australian Female
 
 icon:   img/logo/lia-phishbate-logo.png
 

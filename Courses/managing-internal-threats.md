@@ -1,3 +1,28 @@
+<!--
+author:   Matt Anderson
+
+email:    matt@phishbate.com
+
+version:  0.1.1
+
+language: en
+
+narrator: Australian Female
+
+icon:   img/logo/lia-phishbate-logo.png
+
+logo:   img/covers/managing-internal-threats.png
+
+comment:  Explore 'Internal Threats.' Understand insider risks, implement preventive measures, and safeguard organizational assets.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+mode:     Slides
+
+-->
+
 # Internal Threat Management
 
 ### **Module 1: Introduction to Internal Threats**

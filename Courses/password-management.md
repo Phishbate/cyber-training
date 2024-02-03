@@ -1,3 +1,29 @@
+<!--
+author:   Matt Anderson
+
+email:    matt@phishbate.com
+
+version:  0.1.1
+
+language: en
+
+narrator: Australian Female
+
+icon:   img/logo/lia-phishbate-logo.png
+
+logo:   img/covers/password-management.png
+
+comment:  Strengthen authentication methods. Craft robust passwords, embrace passphrases, and deter unauthorized access.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+mode:     Slides
+
+-->
+
+
 # Password Management
 
 
