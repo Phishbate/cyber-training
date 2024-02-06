@@ -1,3 +1,28 @@
+<!--
+author:   Matt Anderson
+
+email:    matt@phishbate.com
+
+version:  0.1.1
+
+language: en
+
+narrator: Australian Female
+
+icon:   img/logo/lia-phishbate-logo.png
+
+logo:   img/covers/social-engineering.png
+
+comment:  Dissect 'Social Engineering' tactics. Recognize manipulative techniques, shield against deceptive attacks, and build strong interpersonal defenses.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+mode:     Slides
+
+-->
+
 
 Definition:
 Social engineering refers to the psychological manipulation of people into performing actions or divulging confidential information. It's essentially a con game that requires deceit and preys on, among other things, human qualities like trust, fear, and the innate desire to be helpful.

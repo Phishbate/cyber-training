@@ -11,9 +11,9 @@ narrator: Australian Female
 
 icon:   img/logo/lia-phishbate-logo.png
 
-logo:   img/covers/identity-safety.png
+logo:   img/covers/remote-working.png
 
-comment:  Defend against identity theft. Recognize signs, apply preventative measures, and respond swiftly to breaches.
+comment:  Learn cyber-safe remote working practices. Prioritize digital security, identify threats, and ensure a protected online workspace remotely
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 

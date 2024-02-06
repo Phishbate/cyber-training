@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Day 1
 
-- [ ] [[Modules/Phishing/Introduction to Phishing]]
+- [ ] [[Courses/Introduction to Phishing]]
 
 
 ## Month 1
