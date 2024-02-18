@@ -213,6 +213,9 @@ While there’s no guarantee that your identity won’t be stolen, the steps bel
 
 ### Identity Protection Software
 
+privacy.com
+
+
 **Should I Pay for Identity Protection?**
 
 If you’re considering paying for identity protection, there are many companies ready to offer a subscription. The [best identity theft protection services](https://www.forbes.com/advisor/personal-finance/best-identity-theft-protection-services/) come with added perks, like help resolving identity theft instances and insurance up to $1 million if your identity is compromised.
