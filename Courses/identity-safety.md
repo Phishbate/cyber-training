@@ -82,6 +82,12 @@ Simply having a Social Security number makes you at-risk for identity fraud, yet
 
 
 ## Identity 101
+Want to understand how your identity is found online, start by typing your nickname into Google, you'll be surprised by what you find.
+
+**Tip** 
+Go on your search engine and search for old accounts that you no longer need
+
+**Tip** us
 
 ### What is identity theft?
 
@@ -125,27 +131,6 @@ In this course module, we will explore the various types of identity theft that 
 
 By the end of this course module, learners will have a comprehensive understanding of the common types of identity theft and be equipped with practical knowledge to safeguard their identities.
 
-### Quiz
-
----
-
-**Which of the following is NOT considered PII**
-
-- [( )] Name
-- [(X)] What you had for lunch
-- [( )] Date of birth
-- [( )] Work email address
-
----
-
-**Which of the following are common types of identity theft**
-
-- [[X]] Financial identity theft & fraud
-- [[X]] Medical identity theft
-- [[ ]] Radio broadcasts
-- [[ ]] Sending handwritten letters
-
----
 
 ## Why Identity Theft Matters
 
@@ -222,6 +207,26 @@ If you’re considering paying for identity protection, there are many companies
 
 However, it’s difficult to justify the cost with all the free tools available from reputable companies like Experian, Credit Karma, and various credit card issuers. If you want the convenience of a paid subscription and added bells and whistles, you might find a paid identity monitoring service makes sense.
 
+
+### Quiz
+
+---
+
+**Which of the following is NOT considered PII**
+
+- [( )] Name
+- [(X)] What you had for lunch
+- [( )] Date of birth
+- [( )] Work email address
+
+---
+
+**Which of the following are common types of identity theft**
+
+- [[X]] Financial identity theft & fraud
+- [[X]] Medical identity theft
+- [[ ]] Radio broadcasts
+- [[ ]] Sending handwritten letters
 
 ## Conclusion & Recap
 

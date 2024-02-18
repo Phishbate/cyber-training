@@ -54,6 +54,11 @@ Email encryption is a method where the content of your email is converted into u
 
 
 ## Using Temporary Email
+To be used when you want to
 
 Mailbox.org: https://mailbox.org
+
+**Temporary Email Address**
+To be used when signing up for services online where you don't want to have a persistent account e.g. a competition entry or receiving some sort of once of document and don't want to be added to the newsletter of that provider.
+
 Temp Mail: https://temp-mail.org
