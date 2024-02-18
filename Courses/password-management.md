@@ -44,3 +44,21 @@ mode:     Slides
 15. Biometrics
     1. Thumbprint
     2. Phase ID
+
+
+## Using a Password Manager
+
+### Example password managers
+KeePass: https://keepass.info/
+KeePassXC (the most popular client): https://keepassxc.org/
+KeeWeb (my favorite client): https://keeweb.info/
+
+
+## Tip 1
+Don't re-use passwords
+This is relevant for important accounts as well as 
+
+
+
+# Tip 2
+Go through all of your online passwords and update them accross the internet

@@ -51,3 +51,9 @@ Being able to identify suspicious emails is a crucial aspect of email security. 
 Using Email Encryption
 
 Email encryption is a method where the content of your email is converted into unreadable text until it reaches its intended recipient. This prevents
+
+
+## Using Temporary Email
+
+Mailbox.org: https://mailbox.org
+Temp Mail: https://temp-mail.org
