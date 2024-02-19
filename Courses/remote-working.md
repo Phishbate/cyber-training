@@ -29,3 +29,11 @@ Effective cyber security requires the active involvement of management. Manageme
 ## Conclusion
 
 In conclusion, organizations must prioritize cyber security measures to ensure the safety of their staff and sensitive information in the current remote working landscape. By implementing these measures, organizations can ensure that their staff is aware of safe behavior and that systems are set up correctly for remote connections. This will help to prevent cyber attacks and protect sensitive information. Organizations must continue to adapt and improve their cyber security measures to stay ahead of evolving threats.
+
+
+## Charging Terminals
+
+**Tip 1**
+Never insert your USB device into a charging terminal. If you do, ensure you utilise a **USB Data Blocker**
+- It's cheap
+- Fits in your pocket
