@@ -228,6 +228,9 @@ However, it’s difficult to justify the cost with all the free tools available 
 - [[ ]] Radio broadcasts
 - [[ ]] Sending handwritten letters
 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_tUpHDSOjwCKMnjTtK4BZPoWMxo26HXfqpIJVEx6Vnbq1Gg/viewform?embedded=true" width="640" height="2627" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## Conclusion & Recap
 
 ### Key Takeaways
