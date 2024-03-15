@@ -7,7 +7,7 @@ version:  0.1.1
 
 language: en
 
-narrator: Australian Female
+narrator: Australian Male
 
 icon:   img/logo/lia-phishbate-logo.png
 
@@ -57,7 +57,7 @@ You can never completely protect your personal information from falling into the
 <!--
 author:   ...
 language: en
-narrator: Australian Female
+narrator: Australian Male
 -->
 
 --{{1}}--
