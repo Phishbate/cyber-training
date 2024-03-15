@@ -7,7 +7,7 @@ version:  0.1.1
 
 language: en
 
-narrator: Australian Male
+# narrator: Australian Male
 
 icon:   img/logo/lia-phishbate-logo.png
 
@@ -53,12 +53,6 @@ You can never completely protect your personal information from falling into the
 !?[Identity Theft in Australia](https://www.youtube.com/watch?v=1-VBS7vyT6M&list=PL9W4pGK2nEZcwBDgV30yIVXevfX2cqycm)
 
 ### How safe is your identity?
-
-<!--
-author:   ...
-language: en
-narrator: Australian Male
--->
 
 --{{1}}--
 According to a 2021 poll by Debt.com, four in 10 people reported being victims of identity theft. While that might leave room for many people to say, “Oh, it won’t happen to me,” new figures on rising instances of identity theft bring cause for alarm.
