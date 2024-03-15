@@ -54,6 +54,12 @@ You can never completely protect your personal information from falling into the
 
 ### How safe is your identity?
 
+<!--
+author:   ...
+language: en
+narrator: Australian Female
+-->
+
 --{{1}}--
 According to a 2021 poll by Debt.com, four in 10 people reported being victims of identity theft. While that might leave room for many people to say, “Oh, it won’t happen to me,” new figures on rising instances of identity theft bring cause for alarm.
 
